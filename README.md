@@ -6,9 +6,8 @@ Números primos desempenham um papel fundamental na criptografia moderna, especi
 
 ### Sumário
 - [Introdução](#-Introdução)
-  - [Subseção 1.1](#subseção-11)
-  - [Subseção 1.2](#subseção-12)
-- [Seção 2](#seção-2)
+- [Procurando por Padrões](#-procurando-por-padrões)
+- []()
 
 ### 🎬 Introdução
 
