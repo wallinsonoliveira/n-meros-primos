@@ -22,7 +22,7 @@ Encontrar um padrão simples e previsível para os números primos é um dos gra
 3. Seqüências e Gaps entre Primos:
 
 - Os números primos não são espaçados uniformemente; os gaps (intervalos) entre números primos aumentam à medida que os números se tornam maiores.
-- Às vezes, números primos aparecem em pares próximos, como 11 e 13, 17 e 19, 29 e 31, chamados "primos gêmeos". A conjectura dos primos gêmeos sugere que existem infinitos tais pares, embora isso ainda não tenha sido provado.
+- Às vezes, números primos aparecem em pares próximos, como 11 e 13, 17 e 19, 29 e 31, chamados `primos gêmeos`. A conjectura dos primos gêmeos sugere que existem infinitos tais pares, embora isso ainda não tenha sido provado.
 
 4. Espaçamento Irregular:
 
