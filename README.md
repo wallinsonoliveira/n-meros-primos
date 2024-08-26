@@ -5,9 +5,12 @@ Números primos são números naturais maiores que 1 que têm exatamente dois di
 Números primos desempenham um papel fundamental na criptografia moderna, especialmente em sistemas de criptografia de chave pública, como o *RSA*. A segurança desses sistemas depende da dificuldade de fatorar grandes números compostos em seus fatores primos.
 
 ### Sumário
-- [Introdução](#-Introdução)
-- [Procurando por Padrões](#-procurando-por-padrões)
-- []()
+- 🎬 [Introdução](#-Introdução)
+- 🔎 [Procurando por Padrões](#-procurando-por-padrões)
+- 🔢 [Primo de Mersenne](#-primo-de-mersenne)
+- 💰 [Hipótese de Riemann](#-hipótese-de-riemann)
+- 📟 [Teste de Lucas-Lehmer](#-teste-de-lucas-lehmer)
+
 
 ### 🎬 Introdução
 
@@ -46,3 +49,8 @@ Embora existam padrões e propriedades que descrevem como os números primos se 
 
 ### 🔎 Procurando Por Padrões
 
+### 🔢 Primo de Mersenne
+
+### 💰 Hipótese de Riemann
+
+### 📟 Teste de Lucas-Lehmer
