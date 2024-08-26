@@ -5,7 +5,7 @@ Números primos são números naturais maiores que 1 que têm exatamente dois di
 Números primos desempenham um papel fundamental na criptografia moderna, especialmente em sistemas de criptografia de chave pública, como o *RSA*. A segurança desses sistemas depende da dificuldade de fatorar grandes números compostos em seus fatores primos.
 
 ### Sumário
-- [Introdução](#Introdução)
+- [Introdução](#-Introdução)
   - [Subseção 1.1](#subseção-11)
   - [Subseção 1.2](#subseção-12)
 - [Seção 2](#seção-2)
