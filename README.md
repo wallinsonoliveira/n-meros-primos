@@ -48,6 +48,25 @@ Encontrar um padrão simples e previsível para os números primos é um dos gra
 Embora existam padrões e propriedades que descrevem como os números primos se comportam, não há uma fórmula simples que gere todos os números primos. Eles permanecem distribuídos de forma complexa e imprevisível, o que os torna fascinantes tanto para a matemática teórica quanto para a criptografia.
 
 ### 🔎 Procurando Por Padrões
+- Código em Python para retornar a lista de números primos de 1 a 10000
+  ```
+    def is_prime(n):
+      if n <= 1:
+          return False
+      if n <= 3:
+          return True
+      if n % 2 == 0 or n % 3 == 0:
+          return False
+      i = 5
+      while i * i <= n:
+          if n % i == 0 or n % (i + 2) == 0:
+              return False
+          i += 6
+      return True
+  
+  primes = [n for n in range(1, 10001) if is_prime(n)]
+  print(primes)
+```
 
 ### 🔢 Primo de Mersenne
 
