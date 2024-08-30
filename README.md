@@ -66,7 +66,12 @@ Embora existam padrões e propriedades que descrevem como os números primos se 
   
   primes = [n for n in range(1, 10001) if is_prime(n)]
   print(primes)
-```
+  ```
+- Teste 1: Fórmula *n² + n + 41* - `Números Primos - Git - Teste 1.xlsx`. Essa expressão foi descoberta pelo matemático suíço Leonhard Euler no século XVIII. Euler, um dos matemáticos mais prolíficos da história, estudou essa fórmula e notou que ela gera números primos para valores inteiros de *n* entre *0* e *39*. Aprofundei um pouco mais nessa fórmula testando variações diversas. Substituí o valor *41* pela variável *P* e testei valores de P variando de -1000 a 1000 e n variando de *-300* a *300*. Constatem que o melhor resultado foi realmente o P valendo *41*. O rapaz *(Euler)* era mesma um `gênio`.
+- Teste 2: `Números Primos - Git - Teste 2.xlsx`. Resolvi então variar mais ainda a expressão. Testei *n³ + n² + n + P*, *n³ + n + P*, *n³ + - n + P*, *n³ + n² + n - P*, entre outros. Nenhuma dessas variações tiveremos melhores resultados que a expressão original de *Euler*.
+- Teste 3: `Números Primos - Git - Teste 3.xlsx`
+
+n entre 0 e 39.
 
 ### 🔢 Primo de Mersenne
 
