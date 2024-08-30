@@ -71,8 +71,9 @@ Embora existam padrões e propriedades que descrevem como os números primos se 
 - Teste 2: `Números Primos - Git - Teste 2.xlsx`. Resolvi então variar mais ainda a expressão. Testei *n³ + n² + n + P*, *n³ + n + P*, *n³ + - n + P*, *n³ + n² + n - P*, entre outros. Nenhuma dessas variações tiveremos melhores resultados que a expressão original de *Euler*.
 - Teste 3: `Números Primos - Git - Teste 3.xlsx`. Aqui analiso o gráfico gerado pela expressão original. Também adicionei nova coluna com valores dos primos mais próximos dos valores resultantes da expressão. Adicionei então uma coluna de erro, que é a diferença do resultado da expressão e do primo mais próximo. Talvez no futuro posso criar ainda mais variações na fórmula e usar a função `Solver` ou algum outro `algorítmo` de minimização de erro para chegar ao melhor resultado possível.
 
-### 🔢 Primo de Mersenne
+### 🔢 Primo de Mersenne - Em breve
+- Teste de Lucas-Lehmer
 
-### 💰 Hipótese de Riemann
+### 💰 Hipótese de Riemann - Em breve
 
-### 📟 Teste de Lucas-Lehmer
+//### 📟 
